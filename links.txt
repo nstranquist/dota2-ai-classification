@@ -1,0 +1,3 @@
+https://www.kaggle.com/devinanzelmo/dota-2-matches?select=yasp_sample.json
+
+https://www.kaggle.com/devinanzelmo/misc-howtos-dota-requests-welcome
