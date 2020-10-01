@@ -1,4 +1,4 @@
-### DotA 2 AI Classification Project
+## DotA 2 AI Classification Project
 
 This is a semester-long project for my class in artificial intelligence.
 
